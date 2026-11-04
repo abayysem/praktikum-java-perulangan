@@ -3,7 +3,7 @@
 **Nama:** Akbar Syam Al Ghamar 
 **NIM:** C2483207013
 
-**Mata Kuliah:** Pemrograman Java
+**Mata Kuliah:** Pemrograman Visual
 
 ## Deskripsi
 Latihan mandiri ini merupakan tugas pemrograman Java menggunakan Apache NetBeans. Program terdiri dari empat latihan tentang perulangan dan method.
