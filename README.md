@@ -31,15 +31,15 @@ Membuat method `tampilkanDaftarBarang()` dengan tipe kembalian `void` untuk mena
 
 
 ## 2. Latihan Kedua
-!(Ketiga.png)
+![ ](Ketiga.png)
 
 
 ## 3. Latihan Ketika
-!(Kedua.png)
+![ ](kedua.png)
 
 
 ## 4. Latihan Keempat
-!(Keempat.png)
+![ ](Keempat.png)
 
 
 ## Teknologi yang Digunakan
