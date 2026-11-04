@@ -27,19 +27,19 @@ Membuat method `tampilkanDaftarBarang()` dengan tipe kembalian `void` untuk mena
 - Apache NetBeans
 
 ## 1. Latihan Pertama
-!(LatihanPertama.png)
+!(pertama.png)
 
 
 ## 2. Latihan Kedua
-!(LatihanKedua.png)
+!(Ketiga.png)
 
 
 ## 3. Latihan Ketika
-!(LatihanKetiga.png)
+!(Kedua.png)
 
 
 ## 4. Latihan Keempat
-!(LatihanKeempat.png)
+!(Keempat.png)
 
 
 ## Teknologi yang Digunakan
